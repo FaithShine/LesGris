@@ -1,0 +1,8 @@
+.tablepress thead .sorting:hover {
+	background-color: #8E44AD;
+}
+
+.tablepress thead th,
+.tablepress tfoot th {
+	background-color: #C39BD3;
+}

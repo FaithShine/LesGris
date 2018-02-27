@@ -1,0 +1,26 @@
+ChangeLog
+=========
+
+Version 0.9
+
+	i) Initial Release.
+	
+Version 0.91 to 0.93
+
+	i) Pre Release bug Fixes.	
+	
+Version 0.93
+
+	i) Corrected Changelog file.
+	
+Version 0.94
+
+	i) Removed Custom CSS, Help/Support Section
+	ii) Menu Fixes on Phone.	
+	iii) Added Slider via TGM Plugin.
+	
+Version 1.0.1
+
+	i) Added a New Featured Posts Area
+	ii) Minor Changes to Customizer
+	iii) Other Bug Fixes.	

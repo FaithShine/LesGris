@@ -1,0 +1,2237 @@
+[
+  {
+    "Postcode": 3040,
+    "Community": "Aberfeldie",
+    "Location": "8km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3042,
+    "Community": "Airport West",
+    "Location": "12km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3021,
+    "Community": "Albanvale",
+    "Location": "19km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3206,
+    "Community": "Albert Park",
+    "Location": "3km south of Melbourne"
+  },
+  {
+    "Postcode": 3020,
+    "Community": "Albion",
+    "Location": "14km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3350,
+    "Community": "Alfredton",
+    "Location": "106km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3078,
+    "Community": "Alphington",
+    "Location": "7km northeast of Melbourne"
+  },
+  {
+    "Postcode": 3018,
+    "Community": "Altona",
+    "Location": "17km southwest of Melbourne"
+  },
+  {
+    "Postcode": 3028,
+    "Community": "Altona Meadows",
+    "Location": "12km southwest of Melbourne"
+  },
+  {
+    "Postcode": 3025,
+    "Community": "Altona North",
+    "Location": "14km southwest of Melbourne"
+  },
+  {
+    "Postcode": 3022,
+    "Community": "Ardeer",
+    "Location": "15km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3143,
+    "Community": "Armadale",
+    "Location": "7km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3364,
+    "Community": "Ascot",
+    "Location": "135km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3032,
+    "Community": "Ascot Vale",
+    "Location": "6km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3147,
+    "Community": "Ashburton",
+    "Location": "12km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3147,
+    "Community": "Ashwood",
+    "Location": "14km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3195,
+    "Community": "Aspendale",
+    "Location": "27km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3195,
+    "Community": "Aspendale Gardens",
+    "Location": "26km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3049,
+    "Community": "Attwood",
+    "Location": "18km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3034,
+    "Community": "Avondale Heights",
+    "Location": "11km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3782,
+    "Community": "Avonsleigh",
+    "Location": "47km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3350,
+    "Community": "Bakery Hill",
+    "Location": "101km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3183,
+    "Community": "Balaclava",
+    "Location": "7km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3350,
+    "Community": "Ballarat Central",
+    "Location": "102km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3350,
+    "Community": "Ballarat East",
+    "Location": "99km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3350,
+    "Community": "Ballarat North",
+    "Location": "101km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3103,
+    "Community": "Balwyn",
+    "Location": "11km northeast of Melbourne"
+  },
+  {
+    "Postcode": 3104,
+    "Community": "Balwyn North",
+    "Location": "11km east of Melbourne"
+  },
+  {
+    "Postcode": 3175,
+    "Community": "Bangholme",
+    "Location": "33km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3911,
+    "Community": "Baxter",
+    "Location": "46km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3153,
+    "Community": "Bayswater",
+    "Location": "28km east of Melbourne"
+  },
+  {
+    "Postcode": 3153,
+    "Community": "Bayswater North",
+    "Location": "27km east of Melbourne"
+  },
+  {
+    "Postcode": 3807,
+    "Community": "Beaconsfield",
+    "Location": "45km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3193,
+    "Community": "Beaumaris",
+    "Location": "20km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3160,
+    "Community": "Belgrave",
+    "Location": "36km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3160,
+    "Community": "Belgrave Heights",
+    "Location": "37km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3160,
+    "Community": "Belgrave South",
+    "Location": "36km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3215,
+    "Community": "Bell Park",
+    "Location": "64km southwest of Melbourne"
+  },
+  {
+    "Postcode": 3215,
+    "Community": "Bell Post Hill",
+    "Location": "64km southwest of Melbourne"
+  },
+  {
+    "Postcode": 3381,
+    "Community": "Bellfield",
+    "Location": "9km northeast of Melbourne"
+  },
+  {
+    "Postcode": 3216,
+    "Community": "Belmont",
+    "Location": "68km southwest of Melbourne"
+  },
+  {
+    "Postcode": 3550,
+    "Community": "Bendigo",
+    "Location": "132km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3204,
+    "Community": "Bentleigh",
+    "Location": "14km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3806,
+    "Community": "Berwick",
+    "Location": "42km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3918,
+    "Community": "Bittern",
+    "Location": "61km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3350,
+    "Community": "Black Hill",
+    "Location": "98km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3193,
+    "Community": "Black Rock",
+    "Location": "18km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3130,
+    "Community": "Blackburn",
+    "Location": "17km east of Melbourne"
+  },
+  {
+    "Postcode": 3130,
+    "Community": "Blackburn North",
+    "Location": "16km east of Melbourne"
+  },
+  {
+    "Postcode": 3130,
+    "Community": "Blackburn South",
+    "Location": "17km east of Melbourne"
+  },
+  {
+    "Postcode": 3942,
+    "Community": "Blairgowrie",
+    "Location": "64km southwest of Melbourne"
+  },
+  {
+    "Postcode": 3196,
+    "Community": "Bonbeach",
+    "Location": "31km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3155,
+    "Community": "Boronia",
+    "Location": "29km east of Melbourne"
+  },
+  {
+    "Postcode": 3977,
+    "Community": "Botanic Ridge",
+    "Location": "45km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3128,
+    "Community": "Box Hill",
+    "Location": "15km east of Melbourne"
+  },
+  {
+    "Postcode": 3129,
+    "Community": "Box Hill North",
+    "Location": "14km east of Melbourne"
+  },
+  {
+    "Postcode": 3128,
+    "Community": "Box Hill South",
+    "Location": "14km east of Melbourne"
+  },
+  {
+    "Postcode": 3019,
+    "Community": "Braybrook",
+    "Location": "10km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3219,
+    "Community": "Breakwater",
+    "Location": "66km southwest of Melbourne"
+  },
+  {
+    "Postcode": 3088,
+    "Community": "Briar Hill",
+    "Location": "18km northeast of Melbourne"
+  },
+  {
+    "Postcode": 3186,
+    "Community": "Brighton",
+    "Location": "12km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3187,
+    "Community": "Brighton East",
+    "Location": "11km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3047,
+    "Community": "Broadmeadows",
+    "Location": "15km north of Melbourne"
+  },
+  {
+    "Postcode": 3012,
+    "Community": "Brooklyn",
+    "Location": "11km west of Melbourne"
+  },
+  {
+    "Postcode": 3056,
+    "Community": "Brunswick",
+    "Location": "5km northeast of Melbourne"
+  },
+  {
+    "Postcode": 3057,
+    "Community": "Brunswick East",
+    "Location": "5km north of Melbourne"
+  },
+  {
+    "Postcode": 3055,
+    "Community": "Brunswick West",
+    "Location": "6km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3105,
+    "Community": "Bulleen",
+    "Location": "12km northeast of Melbourne"
+  },
+  {
+    "Postcode": 3083,
+    "Community": "Bundoora",
+    "Location": "15km northeast of Melbourne"
+  },
+  {
+    "Postcode": 3357,
+    "Community": "Buninyong",
+    "Location": "97km west of Melbourne"
+  },
+  {
+    "Postcode": 3121,
+    "Community": "Burnley",
+    "Location": "5km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3023,
+    "Community": "Burnside",
+    "Location": "20km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3023,
+    "Community": "Burnside Heights",
+    "Location": "20km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3125,
+    "Community": "Burwood",
+    "Location": "17km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3151,
+    "Community": "Burwood East",
+    "Location": "14km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3023,
+    "Community": "Cairnlea",
+    "Location": "17km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3556,
+    "Community": "California Gully",
+    "Location": "136km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3124,
+    "Community": "Camberwell",
+    "Location": "10km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3061,
+    "Community": "Campbellfield",
+    "Location": "17km north of Melbourne"
+  },
+  {
+    "Postcode": 3350,
+    "Community": "Canadian",
+    "Location": "98km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3126,
+    "Community": "Canterbury",
+    "Location": "10km east of Melbourne"
+  },
+  {
+    "Postcode": 3053,
+    "Community": "Carlton",
+    "Location": "3km north of Melbourne"
+  },
+  {
+    "Postcode": 3054,
+    "Community": "Carlton North",
+    "Location": "2km northeast of Melbourne"
+  },
+  {
+    "Postcode": 3163,
+    "Community": "Carnegie",
+    "Location": "12km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3023,
+    "Community": "Caroline Springs",
+    "Location": "22km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3197,
+    "Community": "Carrum",
+    "Location": "36km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3201,
+    "Community": "Carrum Downs",
+    "Location": "33km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3162,
+    "Community": "Caulfield",
+    "Location": "10km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3145,
+    "Community": "Caulfield East",
+    "Location": "8km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3161,
+    "Community": "Caulfield North",
+    "Location": "10km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3162,
+    "Community": "Caulfield South",
+    "Location": "10km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3148,
+    "Community": "Chadstone",
+    "Location": "14km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3196,
+    "Community": "Chelsea",
+    "Location": "29km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3196,
+    "Community": "Chelsea Heights",
+    "Location": "30km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3192,
+    "Community": "Cheltenham",
+    "Location": "19km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3116,
+    "Community": "Chirnside Park",
+    "Location": "32km northeast of Melbourne"
+  },
+  {
+    "Postcode": 3169,
+    "Community": "Clarinda",
+    "Location": "19km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3168,
+    "Community": "Clayton",
+    "Location": "20km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3169,
+    "Community": "Clayton South",
+    "Location": "19km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3782,
+    "Community": "Clematis",
+    "Location": "42km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3068,
+    "Community": "Clifton Hill",
+    "Location": "4km northeast of Melbourne"
+  },
+  {
+    "Postcode": 3058,
+    "Community": "Coburg",
+    "Location": "10km north of Melbourne"
+  },
+  {
+    "Postcode": 3058,
+    "Community": "Coburg North",
+    "Location": "8km north of Melbourne"
+  },
+  {
+    "Postcode": 3781,
+    "Community": "Cockatoo",
+    "Location": "49km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3770,
+    "Community": "Coldstream",
+    "Location": "38km northeast of Melbourne"
+  },
+  {
+    "Postcode": 3066,
+    "Community": "Collingwood",
+    "Location": "3km northeast of Melbourne"
+  },
+  {
+    "Postcode": 3048,
+    "Community": "Coolaroo",
+    "Location": "18km north of Melbourne"
+  },
+  {
+    "Postcode": 3214,
+    "Community": "Corio",
+    "Location": "59km southwest of Melbourne"
+  },
+  {
+    "Postcode": 3465,
+    "Community": "Craigieburn",
+    "Location": "27km north of Melbourne"
+  },
+  {
+    "Postcode": 3977,
+    "Community": "Cranbourne",
+    "Location": "46km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3977,
+    "Community": "Cranbourne East",
+    "Location": "42km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3977,
+    "Community": "Cranbourne North",
+    "Location": "43km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3977,
+    "Community": "Cranbourne South",
+    "Location": "43km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3977,
+    "Community": "Cranbourne West",
+    "Location": "41km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3121,
+    "Community": "Cremorne",
+    "Location": "3km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3919,
+    "Community": "Crib Point",
+    "Location": "63km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3136,
+    "Community": "Croydon",
+    "Location": "27km east of Melbourne"
+  },
+  {
+    "Postcode": 3136,
+    "Community": "Croydon Hills",
+    "Location": "29km east of Melbourne"
+  },
+  {
+    "Postcode": 3136,
+    "Community": "Croydon North",
+    "Location": "27km east of Melbourne"
+  },
+  {
+    "Postcode": 3136,
+    "Community": "Croydon South",
+    "Location": "28km east of Melbourne"
+  },
+  {
+    "Postcode": 3047,
+    "Community": "Dallas",
+    "Location": "16km north of Melbourne"
+  },
+  {
+    "Postcode": 3175,
+    "Community": "Dandenong",
+    "Location": "27km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3175,
+    "Community": "Dandenong North",
+    "Location": "29km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3103,
+    "Community": "Deepdene",
+    "Location": "9km east of Melbourne"
+  },
+  {
+    "Postcode": 3023,
+    "Community": "Deer Park",
+    "Location": "18km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3356,
+    "Community": "Delacombe",
+    "Location": "105km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3037,
+    "Community": "Delahey",
+    "Location": "19km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3030,
+    "Community": "Derrimut",
+    "Location": "17km west of Melbourne"
+  },
+  {
+    "Postcode": 3977,
+    "Community": "Devon Meadows",
+    "Location": "48km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3089,
+    "Community": "Diamond Creek",
+    "Location": "23km northeast of Melbourne"
+  },
+  {
+    "Postcode": 3172,
+    "Community": "Dingley Village",
+    "Location": "24km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3008,
+    "Community": "Docklands",
+    "Location": "2km southwest of Melbourne"
+  },
+  {
+    "Postcode": 3108,
+    "Community": "Doncaster",
+    "Location": "18km northeast of Melbourne"
+  },
+  {
+    "Postcode": 3109,
+    "Community": "Doncaster East",
+    "Location": "15km northeast of Melbourne"
+  },
+  {
+    "Postcode": 3111,
+    "Community": "Donvale",
+    "Location": "20km east of Melbourne"
+  },
+  {
+    "Postcode": 3754,
+    "Community": "Doreen",
+    "Location": "28km northeast of Melbourne"
+  },
+  {
+    "Postcode": 3177,
+    "Community": "Doveton",
+    "Location": "31km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3936,
+    "Community": "Dromana",
+    "Location": "58km south of Melbourne"
+  },
+  {
+    "Postcode": 3215,
+    "Community": "Drumcondra",
+    "Location": "64km southwest of Melbourne"
+  },
+  {
+    "Postcode": 3556,
+    "Community": "Eaglehawk",
+    "Location": "137km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3084,
+    "Community": "Eaglemont",
+    "Location": "10km northeast of Melbourne"
+  },
+  {
+    "Postcode": 3550,
+    "Community": "East Bendigo",
+    "Location": "132km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3219,
+    "Community": "East Geelong",
+    "Location": "64km southwest of Melbourne"
+  },
+  {
+    "Postcode": 3002,
+    "Community": "East Melbourne",
+    "Location": "2km east of Melbourne"
+  },
+  {
+    "Postcode": 3196,
+    "Community": "Edithvale",
+    "Location": "28km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3185,
+    "Community": "Elsternwick",
+    "Location": "9km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3095,
+    "Community": "Eltham",
+    "Location": "20km northeast of Melbourne"
+  },
+  {
+    "Postcode": 3095,
+    "Community": "Eltham North",
+    "Location": "20km northeast of Melbourne"
+  },
+  {
+    "Postcode": 3184,
+    "Community": "Elwood",
+    "Location": "8km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3782,
+    "Community": "Emerald",
+    "Location": "45km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3802,
+    "Community": "Endeavour Hills",
+    "Location": "31km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3076,
+    "Community": "Epping",
+    "Location": "20km northeast of Melbourne"
+  },
+  {
+    "Postcode": 3551,
+    "Community": "Epsom",
+    "Location": "137km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3040,
+    "Community": "Essendon",
+    "Location": "10km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3041,
+    "Community": "Essendon North",
+    "Location": "9km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3040,
+    "Community": "Essendon West",
+    "Location": "10km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3177,
+    "Community": "Eumemmerring",
+    "Location": "32km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3350,
+    "Community": "Eureka",
+    "Location": "99km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3078,
+    "Community": "Fairfield",
+    "Location": "6km northeast of Melbourne"
+  },
+  {
+    "Postcode": 3060,
+    "Community": "Fawkner",
+    "Location": "12km north of Melbourne"
+  },
+  {
+    "Postcode": 3156,
+    "Community": "Ferntree Gully",
+    "Location": "29km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3786,
+    "Community": "Ferny Creek",
+    "Location": "33km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3065,
+    "Community": "Fitzroy",
+    "Location": "4km northeast of Melbourne"
+  },
+  {
+    "Postcode": 3068,
+    "Community": "Fitzroy North",
+    "Location": "2km northeast of Melbourne"
+  },
+  {
+    "Postcode": 3031,
+    "Community": "Flemington",
+    "Location": "5km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3550,
+    "Community": "Flora Hill",
+    "Location": "129km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3011,
+    "Community": "Footscray",
+    "Location": "6km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3131,
+    "Community": "Forest Hill",
+    "Location": "19km east of Melbourne"
+  },
+  {
+    "Postcode": 3199,
+    "Community": "Frankston",
+    "Location": "39km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3200,
+    "Community": "Frankston North",
+    "Location": "43km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3199,
+    "Community": "Frankston South",
+    "Location": "40km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3185,
+    "Community": "Gardenvale",
+    "Location": "10km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3220,
+    "Community": "Geelong",
+    "Location": "65km southwest of Melbourne"
+  },
+  {
+    "Postcode": 3218,
+    "Community": "Geelong West",
+    "Location": "65km southwest of Melbourne"
+  },
+  {
+    "Postcode": 3043,
+    "Community": "Gladstone Park",
+    "Location": "15km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3163,
+    "Community": "Glen Huntly",
+    "Location": "11km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3146,
+    "Community": "Glen Iris",
+    "Location": "10km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3150,
+    "Community": "Glen Waverley",
+    "Location": "20km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3046,
+    "Community": "Glenroy",
+    "Location": "13km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3555,
+    "Community": "Golden Gully",
+    "Location": "129km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3350,
+    "Community": "Golden Point",
+    "Location": "100km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3555,
+    "Community": "Golden Square",
+    "Location": "132km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3043,
+    "Community": "Gowanbrae",
+    "Location": "14km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3088,
+    "Community": "Greensborough",
+    "Location": "18km northeast of Melbourne"
+  },
+  {
+    "Postcode": 3059,
+    "Community": "Greenvale",
+    "Location": "19km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3216,
+    "Community": "Grovedale",
+    "Location": "70km southwest of Melbourne"
+  },
+  {
+    "Postcode": 3046,
+    "Community": "Hadfield",
+    "Location": "12km north of Melbourne"
+  },
+  {
+    "Postcode": 3803,
+    "Community": "Hallam",
+    "Location": "34km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3215,
+    "Community": "Hamlyn Heights",
+    "Location": "65km southwest of Melbourne"
+  },
+  {
+    "Postcode": 3188,
+    "Community": "Hampton",
+    "Location": "15km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3188,
+    "Community": "Hampton East",
+    "Location": "37km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3976,
+    "Community": "Hampton Park",
+    "Location": "14km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3806,
+    "Community": "Harkaway",
+    "Location": "39km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3915,
+    "Community": "Hastings",
+    "Location": "57km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3122,
+    "Community": "Hawthorn",
+    "Location": "8km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3123,
+    "Community": "Hawthorn East",
+    "Location": "6km east of Melbourne"
+  },
+  {
+    "Postcode": 3202,
+    "Community": "Heatherton",
+    "Location": "19km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3135,
+    "Community": "Heathmont",
+    "Location": "25km east of Melbourne"
+  },
+  {
+    "Postcode": 3084,
+    "Community": "Heidelberg",
+    "Location": "11km northeast of Melbourne"
+  },
+  {
+    "Postcode": 3081,
+    "Community": "Heidelberg Heights",
+    "Location": "12km northeast of Melbourne"
+  },
+  {
+    "Postcode": 3081,
+    "Community": "Heidelberg West",
+    "Location": "11km northeast of Melbourne"
+  },
+  {
+    "Postcode": 3218,
+    "Community": "Herne Hill",
+    "Location": "66km southwest of Melbourne"
+  },
+  {
+    "Postcode": 3190,
+    "Community": "Highett",
+    "Location": "17km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3216,
+    "Community": "Highton",
+    "Location": "70km southwest of Melbourne"
+  },
+  {
+    "Postcode": 3875,
+    "Community": "Hillside",
+    "Location": "24km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3920,
+    "Community": "Hmas Cerberus",
+    "Location": "66km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3029,
+    "Community": "Hoppers Crossing",
+    "Location": "24km southwest of Melbourne"
+  },
+  {
+    "Postcode": 3166,
+    "Community": "Hughesdale",
+    "Location": "14km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3166,
+    "Community": "Huntingdale",
+    "Location": "16km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3551,
+    "Community": "Huntly",
+    "Location": "139km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3099,
+    "Community": "Hurstbridge",
+    "Location": "28km northeast of Melbourne"
+  },
+  {
+    "Postcode": 3350,
+    "Community": "Invermay Park",
+    "Location": "102km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3550,
+    "Community": "Ironbark",
+    "Location": "133km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3079,
+    "Community": "Ivanhoe",
+    "Location": "10km northeast of Melbourne"
+  },
+  {
+    "Postcode": 3079,
+    "Community": "Ivanhoe East",
+    "Location": "9km northeast of Melbourne"
+  },
+  {
+    "Postcode": 3047,
+    "Community": "Jacana",
+    "Location": "15km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3556,
+    "Community": "Jackass Flat",
+    "Location": "136km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3977,
+    "Community": "Junction Village",
+    "Location": "46km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3551,
+    "Community": "Junortoun",
+    "Location": "128km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3791,
+    "Community": "Kallista",
+    "Location": "41km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3766,
+    "Community": "Kalorama",
+    "Location": "36km east of Melbourne"
+  },
+  {
+    "Postcode": 3555,
+    "Community": "Kangaroo Flat",
+    "Location": "129km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3021,
+    "Community": "Kealba",
+    "Location": "15km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3036,
+    "Community": "Keilor",
+    "Location": "17km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3038,
+    "Community": "Keilor Downs",
+    "Location": "13km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3033,
+    "Community": "Keilor East",
+    "Location": "19km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3038,
+    "Community": "Keilor Lodge",
+    "Location": "21km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3036,
+    "Community": "Keilor North",
+    "Location": "15km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3042,
+    "Community": "Keilor Park",
+    "Location": "17km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3550,
+    "Community": "Kennington",
+    "Location": "130km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3031,
+    "Community": "Kensington",
+    "Location": "4km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3101,
+    "Community": "Kew",
+    "Location": "8km northeast of Melbourne"
+  },
+  {
+    "Postcode": 3102,
+    "Community": "Kew East",
+    "Location": "6km east of Melbourne"
+  },
+  {
+    "Postcode": 3173,
+    "Community": "Keysborough",
+    "Location": "28km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3137,
+    "Community": "Kilsyth",
+    "Location": "31km east of Melbourne"
+  },
+  {
+    "Postcode": 3137,
+    "Community": "Kilsyth South",
+    "Location": "31km east of Melbourne"
+  },
+  {
+    "Postcode": 3021,
+    "Community": "Kings Park",
+    "Location": "19km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3083,
+    "Community": "Kingsbury",
+    "Location": "13km northeast of Melbourne"
+  },
+  {
+    "Postcode": 3012,
+    "Community": "Kingsville",
+    "Location": "7km west of Melbourne"
+  },
+  {
+    "Postcode": 3180,
+    "Community": "Knoxfield",
+    "Location": "27km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3144,
+    "Community": "Kooyong",
+    "Location": "7km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3355,
+    "Community": "Lake Gardens",
+    "Location": "105km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3350,
+    "Community": "Lake Wendouree",
+    "Location": "104km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3075,
+    "Community": "Lalor",
+    "Location": "17km northeast of Melbourne"
+  },
+  {
+    "Postcode": 3910,
+    "Community": "Langwarrin",
+    "Location": "46km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3911,
+    "Community": "Langwarrin South",
+    "Location": "43km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3028,
+    "Community": "Laverton",
+    "Location": "16km west of Melbourne"
+  },
+  {
+    "Postcode": 3026,
+    "Community": "Laverton North",
+    "Location": "17km southwest of Melbourne"
+  },
+  {
+    "Postcode": 3140,
+    "Community": "Lilydale",
+    "Location": "36km east of Melbourne"
+  },
+  {
+    "Postcode": 3550,
+    "Community": "Long Gully",
+    "Location": "134km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3221,
+    "Community": "Lovely Banks",
+    "Location": "63km southwest of Melbourne"
+  },
+  {
+    "Postcode": 3093,
+    "Community": "Lower Plenty",
+    "Location": "16km northeast of Melbourne"
+  },
+  {
+    "Postcode": 3975,
+    "Community": "Lynbrook",
+    "Location": "37km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3975,
+    "Community": "Lyndhurst",
+    "Location": "38km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3156,
+    "Community": "Lysterfield",
+    "Location": "31km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3156,
+    "Community": "Lysterfield South",
+    "Location": "30km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3085,
+    "Community": "Macleod",
+    "Location": "14km northeast of Melbourne"
+  },
+  {
+    "Postcode": 3352,
+    "Community": "Magpie",
+    "Location": "100km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3551,
+    "Community": "Maiden Gully",
+    "Location": "136km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3012,
+    "Community": "Maidstone",
+    "Location": "9km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3144,
+    "Community": "Malvern",
+    "Location": "11km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3145,
+    "Community": "Malvern East",
+    "Location": "8km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3218,
+    "Community": "Manifold Heights",
+    "Location": "66km southwest of Melbourne"
+  },
+  {
+    "Postcode": 3634,
+    "Community": "Maribyrnong",
+    "Location": "8km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3216,
+    "Community": "Marshall",
+    "Location": "68km southwest of Melbourne"
+  },
+  {
+    "Postcode": 3938,
+    "Community": "McCrae",
+    "Location": "60km south of Melbourne"
+  },
+  {
+    "Postcode": 3204,
+    "Community": "McKinnon",
+    "Location": "13km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3048,
+    "Community": "Meadow Heights",
+    "Location": "19km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3000,
+    "Community": "Melbourne",
+    "Location": "19km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3045,
+    "Community": "Melbourne Airport",
+    "Location": "1km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3194,
+    "Community": "Mentone",
+    "Location": "21km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3159,
+    "Community": "Menzies Creek",
+    "Location": "40km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3754,
+    "Community": "Mernda",
+    "Location": "26km northeast of Melbourne"
+  },
+  {
+    "Postcode": 3206,
+    "Community": "Middle Park",
+    "Location": "4km south of Melbourne"
+  },
+  {
+    "Postcode": 3082,
+    "Community": "Mill Park",
+    "Location": "19km northeast of Melbourne"
+  },
+  {
+    "Postcode": 3352,
+    "Community": "Miners Rest",
+    "Location": "108km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3132,
+    "Community": "Mitcham",
+    "Location": "21km east of Melbourne"
+  },
+  {
+    "Postcode": 3352,
+    "Community": "Mitchell Park",
+    "Location": "107km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3793,
+    "Community": "Monbulk",
+    "Location": "40km east of Melbourne"
+  },
+  {
+    "Postcode": 3127,
+    "Community": "Mont Albert",
+    "Location": "13km east of Melbourne"
+  },
+  {
+    "Postcode": 3129,
+    "Community": "Mont Albert North",
+    "Location": "13km east of Melbourne"
+  },
+  {
+    "Postcode": 3094,
+    "Community": "Montmorency",
+    "Location": "18km northeast of Melbourne"
+  },
+  {
+    "Postcode": 3765,
+    "Community": "Montrose",
+    "Location": "34km east of Melbourne"
+  },
+  {
+    "Postcode": 3221,
+    "Community": "Moolap",
+    "Location": "61km southwest of Melbourne"
+  },
+  {
+    "Postcode": 3039,
+    "Community": "Moonee Ponds",
+    "Location": "7km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3189,
+    "Community": "Moorabbin",
+    "Location": "16km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3138,
+    "Community": "Mooroolbark",
+    "Location": "32km east of Melbourne"
+  },
+  {
+    "Postcode": 3195,
+    "Community": "Mordialloc",
+    "Location": "24km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3931,
+    "Community": "Mornington",
+    "Location": "47km south of Melbourne"
+  },
+  {
+    "Postcode": 3350,
+    "Community": "Mount Clear",
+    "Location": "100km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3767,
+    "Community": "Mount Dandenong",
+    "Location": "35km east of Melbourne"
+  },
+  {
+    "Postcode": 3930,
+    "Community": "Mount Eliza",
+    "Location": "44km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3796,
+    "Community": "Mount Evelyn",
+    "Location": "38km east of Melbourne"
+  },
+  {
+    "Postcode": 3350,
+    "Community": "Mount Helen",
+    "Location": "97km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3934,
+    "Community": "Mount Martha",
+    "Location": "51km south of Melbourne"
+  },
+  {
+    "Postcode": 3350,
+    "Community": "Mount Pleasant",
+    "Location": "101km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3149,
+    "Community": "Mount Waverley",
+    "Location": "16km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3170,
+    "Community": "Mulgrave",
+    "Location": "22km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3163,
+    "Community": "Murrumbeena",
+    "Location": "13km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3805,
+    "Community": "Narre Warren",
+    "Location": "35km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3804,
+    "Community": "Narre Warren North",
+    "Location": "40km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3805,
+    "Community": "Narre Warren South",
+    "Location": "38km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3350,
+    "Community": "Nerrina",
+    "Location": "99km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3219,
+    "Community": "Newcomb",
+    "Location": "63km southwest of Melbourne"
+  },
+  {
+    "Postcode": 3350,
+    "Community": "Newington",
+    "Location": "104km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3015,
+    "Community": "Newport",
+    "Location": "8km southwest of Melbourne"
+  },
+  {
+    "Postcode": 3220,
+    "Community": "Newtown",
+    "Location": "67km southwest of Melbourne"
+  },
+  {
+    "Postcode": 3042,
+    "Community": "Niddrie",
+    "Location": "11km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3174,
+    "Community": "Noble Park",
+    "Location": "25km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3174,
+    "Community": "Noble Park North",
+    "Location": "25km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3214,
+    "Community": "Norlane",
+    "Location": "61km southwest of Melbourne"
+  },
+  {
+    "Postcode": 3550,
+    "Community": "North Bendigo",
+    "Location": "134km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3215,
+    "Community": "North Geelong",
+    "Location": "63km southwest of Melbourne"
+  },
+  {
+    "Postcode": 3051,
+    "Community": "North Melbourne",
+    "Location": "2km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3214,
+    "Community": "North Shore",
+    "Location": "61km southwest of Melbourne"
+  },
+  {
+    "Postcode": 3113,
+    "Community": "North Warrandyte",
+    "Location": "25km northeast of Melbourne"
+  },
+  {
+    "Postcode": 3070,
+    "Community": "Northcote",
+    "Location": "6km northeast of Melbourne"
+  },
+  {
+    "Postcode": 3168,
+    "Community": "Notting Hill",
+    "Location": "19km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3131,
+    "Community": "Nunawading",
+    "Location": "19km east of Melbourne"
+  },
+  {
+    "Postcode": 3046,
+    "Community": "Oak Park",
+    "Location": "11km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3166,
+    "Community": "Oakleigh",
+    "Location": "17km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3166,
+    "Community": "Oakleigh East",
+    "Location": "17km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3167,
+    "Community": "Oakleigh South",
+    "Location": "15km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3788,
+    "Community": "Olinda",
+    "Location": "35km east of Melbourne"
+  },
+  {
+    "Postcode": 3204,
+    "Community": "Ormond",
+    "Location": "12km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3114,
+    "Community": "Park Orchards",
+    "Location": "23km east of Melbourne"
+  },
+  {
+    "Postcode": 3195,
+    "Community": "Parkdale",
+    "Location": "22km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3052,
+    "Community": "Parkville",
+    "Location": "3km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3044,
+    "Community": "Pascoe Vale",
+    "Location": "8km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3044,
+    "Community": "Pascoe Vale South",
+    "Location": "10km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3197,
+    "Community": "Patterson Lakes",
+    "Location": "32km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3912,
+    "Community": "Pearcedale",
+    "Location": "48km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3090,
+    "Community": "Plenty",
+    "Location": "20km northeast of Melbourne"
+  },
+  {
+    "Postcode": 3030,
+    "Community": "Point Cook",
+    "Location": "21km southwest of Melbourne"
+  },
+  {
+    "Postcode": 3207,
+    "Community": "Port Melbourne",
+    "Location": "4km southwest of Melbourne"
+  },
+  {
+    "Postcode": 3944,
+    "Community": "Portsea",
+    "Location": "61km southwest of Melbourne"
+  },
+  {
+    "Postcode": 3181,
+    "Community": "Prahran",
+    "Location": "5km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3072,
+    "Community": "Preston",
+    "Location": "9km northeast of Melbourne"
+  },
+  {
+    "Postcode": 3054,
+    "Community": "Princes Hill",
+    "Location": "4km north of Melbourne"
+  },
+  {
+    "Postcode": 3550,
+    "Community": "Quarry Hill",
+    "Location": "130km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3350,
+    "Community": "Redan",
+    "Location": "103km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3095,
+    "Community": "Research",
+    "Location": "23km northeast of Melbourne"
+  },
+  {
+    "Postcode": 3121,
+    "Community": "Richmond",
+    "Location": "4km east of Melbourne"
+  },
+  {
+    "Postcode": 3134,
+    "Community": "Ringwood",
+    "Location": "26km east of Melbourne"
+  },
+  {
+    "Postcode": 3135,
+    "Community": "Ringwood East",
+    "Location": "24km east of Melbourne"
+  },
+  {
+    "Postcode": 3134,
+    "Community": "Ringwood North",
+    "Location": "24km east of Melbourne"
+  },
+  {
+    "Postcode": 3185,
+    "Community": "Ripponlea",
+    "Location": "8km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3084,
+    "Community": "Rosanna",
+    "Location": "13km northeast of Melbourne"
+  },
+  {
+    "Postcode": 3939,
+    "Community": "Rosebud",
+    "Location": "62km south of Melbourne"
+  },
+  {
+    "Postcode": 3940,
+    "Community": "Rosebud West",
+    "Location": "63km south of Melbourne"
+  },
+  {
+    "Postcode": 3178,
+    "Community": "Rowville",
+    "Location": "27km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3064,
+    "Community": "Roxburgh Park",
+    "Location": "21km north of Melbourne"
+  },
+  {
+    "Postcode": 3941,
+    "Community": "Rye",
+    "Location": "64km southwest of Melbourne"
+  },
+  {
+    "Postcode": 3936,
+    "Community": "Safety Beach",
+    "Location": "56km south of Melbourne"
+  },
+  {
+    "Postcode": 3556,
+    "Community": "Sailors Gully",
+    "Location": "139km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3977,
+    "Community": "Sandhurst",
+    "Location": "37km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3191,
+    "Community": "Sandringham",
+    "Location": "16km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3787,
+    "Community": "Sassafras",
+    "Location": "35km east of Melbourne"
+  },
+  {
+    "Postcode": 3179,
+    "Community": "Scoresby",
+    "Location": "24km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3028,
+    "Community": "Seabrook",
+    "Location": "19km southwest of Melbourne"
+  },
+  {
+    "Postcode": 3198,
+    "Community": "Seaford",
+    "Location": "36km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3018,
+    "Community": "Seaholme",
+    "Location": "12km southwest of Melbourne"
+  },
+  {
+    "Postcode": 3356,
+    "Community": "Sebastopol",
+    "Location": "102km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3011,
+    "Community": "Seddon",
+    "Location": "6km west of Melbourne"
+  },
+  {
+    "Postcode": 3159,
+    "Community": "Selby",
+    "Location": "38km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3789,
+    "Community": "Sherbrooke",
+    "Location": "36km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3977,
+    "Community": "Skye",
+    "Location": "39km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3350,
+    "Community": "Soldiers Hill",
+    "Location": "102km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3927,
+    "Community": "Somers",
+    "Location": "67km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3912,
+    "Community": "Somerville",
+    "Location": "49km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3943,
+    "Community": "Sorrento",
+    "Location": "62km southwest of Melbourne"
+  },
+  {
+    "Postcode": 3015,
+    "Community": "South Kingsville",
+    "Location": "8km southwest of Melbourne"
+  },
+  {
+    "Postcode": 3205,
+    "Community": "South Melbourne",
+    "Location": "2km southwest of Melbourne"
+  },
+  {
+    "Postcode": 3752,
+    "Community": "South Morang",
+    "Location": "23km northeast of Melbourne"
+  },
+  {
+    "Postcode": 3006,
+    "Community": "South Wharf",
+    "Location": "2km southwest of Melbourne"
+  },
+  {
+    "Postcode": 3141,
+    "Community": "South Yarra",
+    "Location": "4km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3006,
+    "Community": "Southbank",
+    "Location": "1km south of Melbourne"
+  },
+  {
+    "Postcode": 3015,
+    "Community": "Spotswood",
+    "Location": "7km southwest of Melbourne"
+  },
+  {
+    "Postcode": 3550,
+    "Community": "Spring Gully",
+    "Location": "128km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3171,
+    "Community": "Springvale",
+    "Location": "24km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3172,
+    "Community": "Springvale South",
+    "Location": "22km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3021,
+    "Community": "St Albans",
+    "Location": "16km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3941,
+    "Community": "St Andrews Beach",
+    "Location": "68km south of Melbourne"
+  },
+  {
+    "Postcode": 3088,
+    "Community": "St Helena",
+    "Location": "20km northeast of Melbourne"
+  },
+  {
+    "Postcode": 3182,
+    "Community": "St Kilda",
+    "Location": "7km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3183,
+    "Community": "St Kilda East",
+    "Location": "6km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3182,
+    "Community": "St Kilda West",
+    "Location": "5km south of Melbourne"
+  },
+  {
+    "Postcode": 3550,
+    "Community": "Strathdale",
+    "Location": "130km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3551,
+    "Community": "Strathfieldsaye",
+    "Location": "125km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3041,
+    "Community": "Strathmore",
+    "Location": "13km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3041,
+    "Community": "Strathmore Heights",
+    "Location": "10km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3020,
+    "Community": "Sunshine",
+    "Location": "13km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3020,
+    "Community": "Sunshine North",
+    "Location": "12km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3020,
+    "Community": "Sunshine West",
+    "Location": "14km west of Melbourne"
+  },
+  {
+    "Postcode": 3127,
+    "Community": "Surrey Hills",
+    "Location": "12km east of Melbourne"
+  },
+  {
+    "Postcode": 3037,
+    "Community": "Sydenham",
+    "Location": "22km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3029,
+    "Community": "Tarneit",
+    "Location": "26km west of Melbourne"
+  },
+  {
+    "Postcode": 3037,
+    "Community": "Taylors Hill",
+    "Location": "22km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3038,
+    "Community": "Taylors Lakes",
+    "Location": "20km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3160,
+    "Community": "Tecoma",
+    "Location": "35km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3106,
+    "Community": "Templestowe",
+    "Location": "14km northeast of Melbourne"
+  },
+  {
+    "Postcode": 3107,
+    "Community": "Templestowe Lower",
+    "Location": "18km northeast of Melbourne"
+  },
+  {
+    "Postcode": 3792,
+    "Community": "The Patch",
+    "Location": "40km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3074,
+    "Community": "Thomastown",
+    "Location": "15km northeast of Melbourne"
+  },
+  {
+    "Postcode": 3219,
+    "Community": "Thomson",
+    "Location": "65km southwest of Melbourne"
+  },
+  {
+    "Postcode": 3712,
+    "Community": "Thornbury",
+    "Location": "7km northeast of Melbourne"
+  },
+  {
+    "Postcode": 3142,
+    "Community": "Toorak",
+    "Location": "6km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3941,
+    "Community": "Tootgarook",
+    "Location": "63km south of Melbourne"
+  },
+  {
+    "Postcode": 3032,
+    "Community": "Travancore",
+    "Location": "4km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3029,
+    "Community": "Truganina",
+    "Location": "20km west of Melbourne"
+  },
+  {
+    "Postcode": 3043,
+    "Community": "Tullamarine",
+    "Location": "15km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3913,
+    "Community": "Tyabb",
+    "Location": "54km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3156,
+    "Community": "Upper Ferntree Gully",
+    "Location": "32km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3158,
+    "Community": "Upwey",
+    "Location": "34km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3133,
+    "Community": "Vermont",
+    "Location": "20km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3133,
+    "Community": "Vermont South",
+    "Location": "21km east of Melbourne"
+  },
+  {
+    "Postcode": 3084,
+    "Community": "Viewbank",
+    "Location": "14km northeast of Melbourne"
+  },
+  {
+    "Postcode": 3216,
+    "Community": "Wandana Heights",
+    "Location": "71km southwest of Melbourne"
+  },
+  {
+    "Postcode": 3139,
+    "Community": "Wandin North",
+    "Location": "40km east of Melbourne"
+  },
+  {
+    "Postcode": 3152,
+    "Community": "Wantirna",
+    "Location": "24km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3152,
+    "Community": "Wantirna South",
+    "Location": "24km east of Melbourne"
+  },
+  {
+    "Postcode": 3113,
+    "Community": "Warrandyte",
+    "Location": "24km east of Melbourne"
+  },
+  {
+    "Postcode": 3134,
+    "Community": "Warrandyte South",
+    "Location": "23km northeast of Melbourne"
+  },
+  {
+    "Postcode": 3134,
+    "Community": "Warranwood",
+    "Location": "26km east of Melbourne"
+  },
+  {
+    "Postcode": 3195,
+    "Community": "Waterways",
+    "Location": "27km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3087,
+    "Community": "Watsonia",
+    "Location": "17km northeast of Melbourne"
+  },
+  {
+    "Postcode": 3087,
+    "Community": "Watsonia North",
+    "Location": "16km northeast of Melbourne"
+  },
+  {
+    "Postcode": 3096,
+    "Community": "Wattle Glen",
+    "Location": "26km northeast of Melbourne"
+  },
+  {
+    "Postcode": 3216,
+    "Community": "Waurn Ponds",
+    "Location": "73km southwest of Melbourne"
+  },
+  {
+    "Postcode": 3355,
+    "Community": "Wendouree",
+    "Location": "105km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3030,
+    "Community": "Werribee",
+    "Location": "28km southwest of Melbourne"
+  },
+  {
+    "Postcode": 3550,
+    "Community": "West Bendigo",
+    "Location": "134km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3012,
+    "Community": "West Footscray",
+    "Location": "8km west of Melbourne"
+  },
+  {
+    "Postcode": 3003,
+    "Community": "West Melbourne",
+    "Location": "3km west of Melbourne"
+  },
+  {
+    "Postcode": 3049,
+    "Community": "Westmeadows",
+    "Location": "17km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3150,
+    "Community": "Wheelers Hill",
+    "Location": "22km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3550,
+    "Community": "White Hills",
+    "Location": "134km northwest of Melbourne"
+  },
+  {
+    "Postcode": 3219,
+    "Community": "Whittington",
+    "Location": "64km southwest of Melbourne"
+  },
+  {
+    "Postcode": 3027,
+    "Community": "Williams Landing",
+    "Location": "20km southwest of Melbourne"
+  },
+  {
+    "Postcode": 3016,
+    "Community": "Williamstown",
+    "Location": "10km southwest of Melbourne"
+  },
+  {
+    "Postcode": 3016,
+    "Community": "Williamstown North",
+    "Location": "8km southwest of Melbourne"
+  },
+  {
+    "Postcode": 3181,
+    "Community": "Windsor",
+    "Location": "5km southeast of Melbourne"
+  },
+  {
+    "Postcode": 3115,
+    "Community": "Wonga Park",
+    "Location": "29km northeast of Melbourne"
+  },
+  {
+    "Postcode": 3024,
+    "Community": "Wyndham Vale",
+    "Location": "31km southwest of Melbourne"
+  },
+  {
+    "Postcode": 3085,
+    "Community": "Yallambie",
+    "Location": "15km northeast of Melbourne"
+  },
+  {
+    "Postcode": 3091,
+    "Community": "Yarrambat",
+    "Location": "25km northeast of Melbourne"
+  },
+  {
+    "Postcode": 3013,
+    "Community": "Yarraville",
+    "Location": "7km west of Melbourne"
+  }
+]
